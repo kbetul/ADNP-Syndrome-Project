@@ -1,0 +1,216 @@
+VUS#1
+
+Original Amino Acid R substitued to G which has BLOSUM62 score of -2
+
+Original Values
+identity 0.9722222222222222
+positive 0.9761904761904762
+zero 0.0
+negative 0.003968253968253968
+gap 0.01984126984126984
+
+Substitution Values
+identity 0.0
+positive 0.0
+zero 0.001984126984126984
+negative 0.9781746031746031
+gap 0.01984126984126984
+
+VUS#2
+
+Original Amino Acid T substitued to M which has BLOSUM62 score of -1
+
+Original Values
+identity 0.6924603174603174
+positive 0.8928571428571429
+zero 0.0
+negative 0.08134920634920635
+gap 0.025793650793650792
+
+Substitution Values
+identity 0.0
+positive 0.001984126984126984
+zero 0.001984126984126984
+negative 0.9702380952380952
+gap 0.025793650793650792
+
+VUS#3
+
+Original Amino Acid A substitued to S which has BLOSUM62 score of 1
+
+Original Values
+identity 0.005952380952380952
+positive 0.005952380952380952
+zero 0.021825396825396824
+negative 0.16468253968253968
+gap 0.8075396825396826
+
+Substitution Values
+identity 0.0
+positive 0.021825396825396824
+zero 0.09325396825396826
+negative 0.07738095238095238
+gap 0.8075396825396826
+
+VUS#4
+
+Original Amino Acid S substitued to L which has BLOSUM62 score of -2
+
+Original Values
+identity 0.03571428571428571
+positive 0.14484126984126985
+zero 0.03373015873015873
+negative 0.005952380952380952
+gap 0.8154761904761905
+
+Substitution Values
+identity 0.0
+positive 0.001984126984126984
+zero 0.0
+negative 0.18253968253968253
+gap 0.8154761904761905
+
+VUS#5
+
+Original Amino Acid R substitued to W which has BLOSUM62 score of -3
+
+Original Values
+identity 0.7202380952380952
+positive 0.8095238095238095
+zero 0.07738095238095238
+negative 0.08333333333333333
+gap 0.02976190476190476
+
+Substitution Values
+identity 0.001984126984126984
+positive 0.001984126984126984
+zero 0.0
+negative 0.9682539682539683
+gap 0.02976190476190476
+
+VUS#6
+
+Original Amino Acid G substitued to S which has BLOSUM62 score of 0
+
+Original Values
+identity 0.24603174603174602
+positive 0.24603174603174602
+zero 0.48214285714285715
+negative 0.2123015873015873
+gap 0.05952380952380952
+
+Substitution Values
+identity 0.4027777777777778
+positive 0.5317460317460317
+zero 0.25793650793650796
+negative 0.15079365079365079
+gap 0.05952380952380952
+
+VUS#7
+
+Original Amino Acid Y substitued to C which has BLOSUM62 score of -2
+
+Original Values
+identity 0.9186507936507936
+positive 0.9464285714285714
+zero 0.0
+negative 0.03968253968253968
+gap 0.013888888888888888
+
+Substitution Values
+identity 0.001984126984126984
+positive 0.001984126984126984
+zero 0.0
+negative 0.9841269841269841
+gap 0.013888888888888888
+
+VUS#8
+
+Original Amino Acid V substitued to L which has BLOSUM62 score of 1
+
+Original Values
+identity 0.0
+positive 0.001984126984126984
+zero 0.0
+negative 0.001984126984126984
+gap 0.996031746031746
+
+Substitution Values
+identity 0.001984126984126984
+positive 0.001984126984126984
+zero 0.0
+negative 0.001984126984126984
+gap 0.996031746031746
+
+VUS#9
+
+Original Amino Acid C substitued to G which has BLOSUM62 score of -3
+
+Original Values
+identity 0.9861111111111112
+positive 0.9861111111111112
+zero 0.0
+negative 0.001984126984126984
+gap 0.011904761904761904
+
+Substitution Values
+identity 0.0
+positive 0.0
+zero 0.0
+negative 0.9880952380952381
+gap 0.011904761904761904
+
+VUS#10
+
+Original Amino Acid H substitued to R which has BLOSUM62 score of 0
+
+Original Values
+identity 0.9880952380952381
+positive 0.9880952380952381
+zero 0.0
+negative 0.001984126984126984
+gap 0.00992063492063492
+
+Substitution Values
+identity 0.0
+positive 0.001984126984126984
+zero 0.9880952380952381
+negative 0.0
+gap 0.00992063492063492
+
+VUS#11
+
+Original Amino Acid S substitued to X which has BLOSUM62 score of 0
+
+Original Values
+identity 0.015873015873015872
+positive 0.031746031746031744
+zero 0.04563492063492063
+negative 0.17857142857142858
+gap 0.7440476190476191
+
+Substitution Values
+identity 0.0
+positive 0.0
+zero 0.023809523809523808
+negative 0.23214285714285715
+gap 0.7440476190476191
+
+VUS#12
+
+Original Amino Acid D substitued to N which has BLOSUM62 score of 1
+
+Original Values
+identity 0.33134920634920634
+positive 0.4384920634920635
+zero 0.06746031746031746
+negative 0.3373015873015873
+gap 0.15674603174603174
+
+Substitution Values
+identity 0.03571428571428571
+positive 0.4107142857142857
+zero 0.24801587301587302
+negative 0.18452380952380953
+gap 0.15674603174603174
+
